@@ -1,2 +1,2 @@
 # BI
-Проеkты 
+Тестовые дашборды PowerBI и Tableau 
